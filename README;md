@@ -30,6 +30,8 @@ pourquoi # smart-ride-estimator:
 1. Ouvrez un terminal dans le dossier du projet.
 2. Exécutez la commande :
 
+[🎬 Cliquez ici pour voir la vidéo de démonstration](./demo.mp4)
+
 ```bash
 python smart-ride-estimator.py
 
