@@ -31,6 +31,7 @@ pourquoi # smart-ride-estimator:
 2. Exécutez la commande :
 ```bash
 python smart-ride-estimator.py
+https://github.com/EUD-SOTOWOU/smart_estimator_taxi_zemidjan/blob/main/demo.mp4
 
 **************** Démonstration*****************
 [Demo du projet](demo.mp4)
